@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 I'm Alan!
+___
+De boas com a vida e gosta de estar disponível pelos amigos <br>
+Atualmente aventurando-se pela área da saúde 🩺 (sem perder o interesse pela computação 💻, claro)
+
+<a href="https://www.linkedin.com/in/alanmariz/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.instagram.com/in/alanmariz/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 <!--
 **alanmariz/alanmariz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
