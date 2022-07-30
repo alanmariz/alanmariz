@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Alan!
+### Hi👋 I'm Alan!
 ___
 De boas com a vida e gosta de estar disponível pelos amigos <br>
 Dia favorito? 10111/1010 <br>
