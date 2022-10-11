@@ -1,7 +1,7 @@
 ### Hi👋 I'm Alan!
 ___
 De boas com a vida e gosta de estar disponível pelos amigos <br>
-Dia favorito? 10111/1010 <br>
+Dia? 10111/1010 <br>
 Atualmente aventurando-se pela área da saúde 🩺 (sem perder o interesse pela computação 💻, claro)
 
 <a href="https://www.linkedin.com/in/alanmariz/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
